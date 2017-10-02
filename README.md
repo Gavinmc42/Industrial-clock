@@ -3,3 +3,6 @@ https://raw.githubusercontent.com/HanSolo/Medusa/master/images/IndustrialClockSk
 
 Check out the rest of his stuff
 https://github.com/HanSolo/Medusa
+
+This was done in baremetal with Ultibo and uses OpenVG
+
