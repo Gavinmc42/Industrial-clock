@@ -5,4 +5,6 @@ Check out the rest of his stuff
 https://github.com/HanSolo/Medusa
 
 This was done in baremetal with Ultibo and uses OpenVG
+Find your relevant timezone setting in Ultibo/Core/fpc/3.1.1/rtl/ultibo/core/timezone.pas
+
 
